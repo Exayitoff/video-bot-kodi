@@ -10,7 +10,7 @@ import sqlite3
 from datetime import datetime
 
 # Bot konfiguratsiyasi
-API_TOKEN = '5898886148:AAEJiLJtlviPYRSXGj0MS3GOXIRZKNfhols'
+API_TOKEN = '7593864777:AAFJfMsrYd687PKdIiZcsDiR1soMEk98vH4'
 ADMIN_IDS = [693313498,7616547068,1976782521]  # Admin ID lari
 CHANNELS = []  # Majburiy obuna kanallari
 
